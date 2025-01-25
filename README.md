@@ -1,6 +1,5 @@
 <!-- Intro -->
 <div align="center">
-  <br>
   <a href="https://tryhackme.com/p/wikileaksintern" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TryHackMe-231F20?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe Badge" />
   </a>
