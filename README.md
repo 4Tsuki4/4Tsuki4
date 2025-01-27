@@ -24,5 +24,6 @@
   <img src="https://img.shields.io/badge/Linux-231F20?style=for-the-badge&logo=linux&logoColor=00FF00" alt="Linux Badge" />
   <img src="https://img.shields.io/badge/Wireshark-231F20?style=for-the-badge&logo=wireshark&logoColor=00FF00" alt="Wireshark Badge" />
   <img src="https://img.shields.io/badge/Snort-231F20?style=for-the-badge&logo=snort&logoColor=00FF00" alt="Snort Badge" />
+  <img src="https://img.shields.io/badge/Splunk-231F20?style=for-the-badge&logo=Splunk&logoColor=00FF00" alt="Splunk Badge" />
   <img src="https://img.shields.io/badge/VMware-231F20?style=for-the-badge&logo=VMware&logoColor=00FF00" alt="VMware Badge" />
 </div>
