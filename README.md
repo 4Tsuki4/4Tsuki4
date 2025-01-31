@@ -27,3 +27,11 @@
   <img src="https://img.shields.io/badge/Splunk-231F20?style=for-the-badge&logo=Splunk&logoColor=00FF00" alt="Splunk Badge" />
   <img src="https://img.shields.io/badge/VMware-231F20?style=for-the-badge&logo=VMware&logoColor=00FF00" alt="VMware Badge" />
 </div>
+
+<!-- Separator -->
+<hr style="border: 1px solid #231F20; width: 80%;"/>
+
+<!-- Image -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/4Tsuki4/4Tsuki4/main/Top3%25.png" alt="Top3%" width="1000"/>
+</div>
