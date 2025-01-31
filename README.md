@@ -33,5 +33,5 @@
 
 <!-- Image -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/4Tsuki4/4Tsuki4/main/Top3%25.png" alt="Top3%" width="1000"/>
+  <img src="https://raw.githubusercontent.com/4Tsuki4/4Tsuki4/main/Top3.png" alt="Top3%" width="1000"/>
 </div>
