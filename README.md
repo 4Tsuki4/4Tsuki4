@@ -12,6 +12,8 @@
 <h1 align="center">〈 whoami 〉</h1>
 <p align="center">
   Hi, I'm Simon! I'm a high-achieving Cybersecurity student at Macquarie University. I'm seeking an internship to enhance my technical skills and gain hands-on IT experience. I have a passion for learning about threat analysis, ethical hacking, securing systems, and programming.
+
+  - Reach me at cellardoorsec@protonmail.com (PGP Encrypt if needed).
 </p>
 
 <!-- Tech Stack -->
