@@ -1,6 +1,6 @@
 <!-- Intro -->
 <div align="center">
-  <a href="https://tryhackme.com/p/wikileaksintern" target="_blank" rel="noopener noreferrer">
+  <a href="https://tryhackme.com/p/sdwyersec" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TryHackMe-231F20?style=for-the-badge&logo=tryhackme&logoColor=00FF00" alt="TryHackMe Badge" />
   </a>
   <a href="https://www.linkedin.com/in/simon-dwyer-556435325/" target="_blank" rel="noopener noreferrer">
